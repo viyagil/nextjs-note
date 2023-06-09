@@ -33,7 +33,7 @@ export default function RootLayout({
     <head />
     <body>
     <header className={styles.header}>
-      <h1 className={gothic.className}>Demo Note</h1>
+      <h1 className={gothic.className}>Demo Note22222222222</h1>
       <nav className={styles.nav}>
         <Link href='/products'>Products</Link>
         <Link href='/about'>About</Link>
